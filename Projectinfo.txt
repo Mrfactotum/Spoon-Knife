@@ -1,0 +1,15 @@
+This document includes planning for the project.
+We will take an everything all at once approach using an upside down triangle.
+Remember if your core idea is terrible everything else will be as well and it will cost more money and time to fix it.
+
+Step 1) 
+Design website, include general layout
+
+Step 2) 
+Revise, get feedback on site
+
+Step 3)
+Break site into smallest possible steps 
+
+Step 4)
+Begin coding
